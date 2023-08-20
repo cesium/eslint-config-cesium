@@ -18,6 +18,13 @@
   ],
   "author": "CeSIUM cesium@di.uminho.pt",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cesium/eslint-config-cesium.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cesium/eslint-config-cesium/issues"
+  },
   "scripts": {
     "commit": "git-cz",
     "semantic-release": "semantic-release --branches main",
