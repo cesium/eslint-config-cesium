@@ -1,5 +1,5 @@
 {
-  "name": "@cesium/eslint-config",
+  "name": "@cesiuminho/eslint-config",
   "version": "1.0.0",
   "description": "ESLint configuration used by CeSIUM.",
   "main": "index.js",
