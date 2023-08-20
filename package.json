@@ -5,7 +5,7 @@
   "main": "index.js",
   "files": [
     "LICENSE",
-    "index.js",
+    "next.js",
     "lib"
   ],
   "keywords": [
