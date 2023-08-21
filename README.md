@@ -35,7 +35,7 @@ To start using this shared config, add `@cesiuminho/eslint-config` to the `.esli
 ```jsx
 // .eslintrc
 {
-  "extends": "@cesiuminho/eslint-config"
+  "extends": "@cesiuminho/eslint-config/next"
 }
 ```
 
@@ -48,7 +48,7 @@ If you wish to override any [Prettier options](https://prettier.io/docs/en/optio
 ```jsx
 // .eslintrc
 {
-  "extends": "@cesiuminho/eslint-config",
+  "extends": "@cesiuminho/eslint-config/next",
   "rules": {
     "prettier/prettier": [
       "error",
