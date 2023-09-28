@@ -1,6 +1,5 @@
 const base = require("./lib/base");
 const react = require("./lib/react");
-const prettier = require("./lib/prettier");
 const tailwind = require("./lib/tailwind");
 
 module.exports = {
@@ -35,7 +34,6 @@ module.exports = {
   rules: {
     ...base,
     ...react,
-    ...prettier,
     ...tailwind,
   },
 
