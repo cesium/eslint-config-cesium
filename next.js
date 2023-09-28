@@ -1,7 +1,7 @@
-const base = require("./lib/base")
-const react = require("./lib/react")
-const prettier = require("./lib/prettier")
-const tailwind = require("./lib/tailwind")
+const base = require("./lib/base");
+const react = require("./lib/react");
+const prettier = require("./lib/prettier");
+const tailwind = require("./lib/tailwind");
 
 module.exports = {
   env: {
@@ -9,6 +9,7 @@ module.exports = {
     es2021: true,
     node: true,
   },
+
   extends: [
     "eslint:recommended",
     "plugin:@typescript-eslint/recommended-type-checked",
@@ -43,4 +44,4 @@ module.exports = {
       version: "detect",
     },
   },
-}
+};

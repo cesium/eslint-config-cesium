@@ -19,10 +19,10 @@ module.exports = {
         singleQuote: false,
         trailingComma: "all",
         arrowParens: "always",
-        semi: false,
+        semi: true,
         endOfLine: "auto",
       },
     ],
     "eslint-plugin/require-meta-docs-description": "error",
   },
-}
+};
