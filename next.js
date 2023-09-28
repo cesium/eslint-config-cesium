@@ -16,7 +16,6 @@ module.exports = {
     "plugin:react-hooks/recommended",
     "plugin:tailwindcss/recommended",
     "plugin:@next/next/recommended",
-    "plugin:prettier/recommended",
   ],
 
   parser: "@typescript-eslint/parser",
